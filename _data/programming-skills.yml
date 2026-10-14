@@ -1,0 +1,14 @@
+- name: SQL
+  percentage: 65
+  level: Intermediate
+  color: green
+
+- name: Python
+  percentage: 40
+  level: Beginner
+  color: secondary
+
+- name: R
+  percentage: 30
+  level: Beginner
+  color: secondary

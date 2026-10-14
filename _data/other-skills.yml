@@ -1,0 +1,14 @@
+- name: Excel
+  percentage: 50
+  level: Intermediate
+  color: secondary
+
+- name: Database Modeling
+  percentage: 60
+  level: Intermediate
+  color: success
+
+- name: IT/Troubleshooting
+  percentage: 40
+  level: Intermediate
+  color: success
