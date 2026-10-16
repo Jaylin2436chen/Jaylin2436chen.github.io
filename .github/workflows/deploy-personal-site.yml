@@ -19,11 +19,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/configure-pages@v5
+
       - uses: actions/jekyll-build-pages@v1
         with:
           source: ./Person_Website
           destination: ./_site
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
@@ -36,4 +39,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v
+        uses: actions/deploy-pages@v4
