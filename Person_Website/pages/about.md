@@ -7,8 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-studying Information Science and I am interested in data analytics, healthcare, and technology!
+Hi I am **{{ site.author.name }}**,<br> studying Information Science and I am interested in data analytics, healthcare, and technology!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

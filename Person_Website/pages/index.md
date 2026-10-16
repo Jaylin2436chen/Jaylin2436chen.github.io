@@ -2,6 +2,9 @@
 layout: default
 permalink: /
 ---
+
+{% include landing.html %}
+
 <div style="text-align: center; margin: 2rem 0;">
   <a href="https://www.linkedin.com/in/jaylin-chen/"
      target="_blank" rel="noopener noreferrer"
@@ -17,5 +20,3 @@ permalink: /
     <i class="fab fa-github"></i>
   </a>
 </div>
-
-{% include landing.html %}
