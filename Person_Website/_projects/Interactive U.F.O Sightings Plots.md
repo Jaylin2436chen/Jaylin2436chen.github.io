@@ -1,7 +1,7 @@
 ---
 name: Interactive U.F.O Sightings Plot
 tools: [Python, HTML, vega-lite, Altair]
-image: assets/pngs/cars.png
+image: assets/jpg/ufo.webp
 description: This is a webpage to show U.F.O sightings within the U.S and around the country!
 custom_js:
   - vega.min
@@ -40,6 +40,6 @@ When making the interactivity between graphs, I noticed that there were differen
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/Jaylin2436chen/Jaylin2436chen.github.io/blob/main/python_notebooks/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/Jaylin2436chen/Jaylin2436chen.github.io/blob/main/IS%20445%20Data%20Visualization/my_python_work/Loading%20Data%20and%20Visual.ipynb" text="The Analysis" %}
 </div>
 

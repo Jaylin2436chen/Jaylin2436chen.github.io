@@ -1,7 +1,8 @@
 ---
 name: Immune Cell Trial Analysis
 tools: [Python, SQLite, SQL, Streamlit]
-description: I analyzed clinical trial immune cell data using Python and SQLite, compared cell populations between responders and non-responders, and built an interactive dashboard to show my findings.
+image: assets/jpg/immune-cells.jpg
+description: I analyzed clinical trial immune cell data using Python and SQLite. Then compared cell populations between responders and non-responders, and built an interactive dashboard to show my findings.
 ---
 
 <iframe
