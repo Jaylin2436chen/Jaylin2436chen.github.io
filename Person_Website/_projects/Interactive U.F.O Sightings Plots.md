@@ -1,7 +1,7 @@
 ---
 name: IS 445 Project: Interactive U.F.O Sightings Plot
 tools: [Python, HTML, vega-lite, Altair]
-image: assets/jpg/ufo.webp
+image: assets/pngs/graph.png
 description: This is a webpage to show U.F.O sightings within the U.S and around the country!
 custom_js:
   - vega.min
