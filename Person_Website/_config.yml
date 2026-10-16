@@ -125,3 +125,5 @@ exclude:
   - "*.ipynb"
   - "python_notebooks/*"
   - vendor
+  - miscellaneous
+  - example_ideas
